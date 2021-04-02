@@ -222,9 +222,6 @@ sections:
         image_align: center
         content: |
           "Thnq"
-      - image: images/logo-6.svg
-        image_alt: Twilio logo
-        image_align: center
       - image: images/logo-7.svg
         image_alt: Contentful logo
         image_align: center
