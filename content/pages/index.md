@@ -11,7 +11,7 @@ sections:
       - label: Subscribe to Podcast
         url: /thank-you
         style: primary
-    image: images/the (1).png
+    image: images/WhatsApp Image 2021-04-01 at 9.03.46 AM.jpeg
     image_alt: Hero section placeholder image
     media_position: left
     media_width: fifty
