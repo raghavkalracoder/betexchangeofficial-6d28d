@@ -199,6 +199,8 @@ sections:
       - image: images/logo-1.svg
         image_alt: Stackbit logo
         image_align: center
+        content: |
+          5% bonus on every refill on sunday, festival bonuses on our channel!
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
