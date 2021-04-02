@@ -226,6 +226,7 @@ sections:
         image_align: center
         content: |
           "Thnq"
+        content_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
