@@ -6,7 +6,7 @@ sections:
     content: |2
        
     actions:
-      - label: Subscribe to Podcast
+      - label: 'Register '
         url: /thank-you
         style: primary
     image: images/WhatsApp Image 2021-04-01 at 9.03.46 AM.jpeg
