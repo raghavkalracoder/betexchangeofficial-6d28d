@@ -61,6 +61,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/1280px-Google_Pay_(GPay)_Logo.svg.png
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
