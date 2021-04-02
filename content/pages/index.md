@@ -182,7 +182,7 @@ sections:
     background_image_opacity: 10
     subtitle: 5 lakh payments done in a single day
   - type: grid_section
-    title: Partners
+    title: Customers ki Awaaz!
     subtitle: 2021 Supporters
     align: center
     grid_items:
