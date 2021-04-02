@@ -160,13 +160,7 @@ sections:
         image_width: twenty-five
       - title_align: center
         content_align: center
-        actions:
-          - label: Subscribe
-            url: /thank-you
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: center
         image_alt: Overcast icon
         image_position: top
