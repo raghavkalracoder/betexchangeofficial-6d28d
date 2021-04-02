@@ -233,7 +233,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: lorem-ipsum
+      - label: Minimum Widrawl 1000/-
         url: lorem-ipsum
         style: link
         has_icon: false
