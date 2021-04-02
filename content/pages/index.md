@@ -183,7 +183,7 @@ sections:
     background_image_opacity: 10
     subtitle: 5 lakh payments done in a single day
     actions:
-      - label: '5% bonus on every refill on Sunday, festival bonuses on our channel!'
+      - label: 5% bonus on every refill on Sunday & festival bonuses on our channel!
         url: lorem-ipsum
         style: primary
         has_icon: false
