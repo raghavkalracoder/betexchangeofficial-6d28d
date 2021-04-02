@@ -207,8 +207,7 @@ sections:
         content: >
           “Everyday fast withdraw system is one of the best service with Bet
           exchange official online ,looking forward to go long time together.”
-      - image: images/logo-3.svg
-        image_alt: Sticker Mule logo
+      - image_alt: Sticker Mule logo
         image_align: center
         content: >
           “I am playing from 12 years. A friend in need is a friend in deed. I
