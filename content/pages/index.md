@@ -156,7 +156,7 @@ sections:
         image: images/oie_P8qbutdsEb2W.png
         image_alt: Spotify icon
         image_position: top
-        image_align: right
+        image_align: center
         image_has_padding: true
         image_width: twenty-five
       - title_align: center
