@@ -95,7 +95,7 @@ sections:
         actions_align: center
         image: images/famous-tortoise.png
         image_alt: Apple Podcasts icon
-        image_position: right
+        image_position: top
         image_align: center
         image_has_padding: true
       - title: Spotify
