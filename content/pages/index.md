@@ -3,9 +3,8 @@ title: Home
 sections:
   - type: hero_section
     title: 'Start investing in sports, follow us to know more..'
-    content: >-
-      A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.
+    content: |2
+       
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
