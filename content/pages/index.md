@@ -196,8 +196,7 @@ sections:
     subtitle: 2021 Supporters
     align: center
     grid_items:
-      - image: images/logo-1.svg
-        image_alt: Stackbit logo
+      - image_alt: Stackbit logo
         image_align: center
         content: >
           “Thank you ji!! mujhe k\*\*\*\*book.com se blok kar diya tha kyunki
