@@ -222,9 +222,6 @@ sections:
         image_align: center
         content: |
           "Thnq"
-      - image: images/logo-7.svg
-        image_alt: Contentful logo
-        image_align: center
       - image: images/logo-8.svg
         image_alt: Forestry logo
         image_align: center
