@@ -154,8 +154,7 @@ sections:
         image_align: center
         image_has_padding: true
         image_width: thirty-three
-      - title: Spotify
-        title_align: center
+      - title_align: center
         content_align: center
         actions:
           - label: Subscribe
