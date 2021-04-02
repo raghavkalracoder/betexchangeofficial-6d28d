@@ -45,7 +45,7 @@ sections:
         actions_align: left
         actions_width: auto
         image_alt: lorem-ipsum
-        image_position: right
+        image_position: bottom
         image_width: fifty
         image_align: center
         image_has_padding: true
