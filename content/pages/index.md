@@ -182,7 +182,7 @@ sections:
     background_image_opacity: 10
     subtitle: 5 lakh payments done in a single day
     actions:
-      - label: lorem-ipsum
+      - label: Customers ki Awaaz!
         url: lorem-ipsum
         style: link
         has_icon: false
