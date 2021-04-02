@@ -48,7 +48,7 @@ sections:
         image_position: right
         image_width: fifty
         image_align: left
-        image_has_padding: false
+        image_has_padding: true
         type: grid_item
         image: images/logo1.png
       - title_align: left
