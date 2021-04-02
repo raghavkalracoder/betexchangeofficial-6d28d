@@ -2,7 +2,7 @@
 title: Home
 sections:
   - type: hero_section
-    title: Welcome to DIYJam Podcast
+    title: 'Start investing in sports, follow us to know more..'
     subtitle: Optional hero section subtitle
     content: >-
       A podcast for Web developers interested in building Jamstack websites.
