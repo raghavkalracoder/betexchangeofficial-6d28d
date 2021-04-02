@@ -205,6 +205,9 @@ sections:
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
+        content: >
+          “Everyday fast withdraw system is one of the best service with Bet
+          exchange official online ,looking forward to go long time together.”
       - image: images/logo-3.svg
         image_alt: Sticker Mule logo
         image_align: center
