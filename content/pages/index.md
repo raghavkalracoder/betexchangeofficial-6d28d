@@ -113,7 +113,7 @@ sections:
         image: images/1280px-Google_Pay_(GPay)_Logo.svg.png
         image_alt: Spotify icon
         image_position: top
-        image_align: center
+        image_align: right
         image_has_padding: true
         image_width: twenty-five
       - title: Overcast
