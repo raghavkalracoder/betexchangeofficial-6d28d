@@ -224,7 +224,7 @@ sections:
     background_image_opacity: 98
   - title: Trusted Online Book!
     actions:
-      - label: lorem-ipsum
+      - label: 'Minimum '
         url: lorem-ipsum
         style: primary
         has_icon: false
