@@ -216,6 +216,9 @@ sections:
       - image: images/logo-4.svg
         image_alt: GitHub logo
         image_align: center
+        content: >
+          “I am playing with you since 2016, I never faced any issue with you
+          and it was the best online book in the whole market.”
       - image: images/logo-5.svg
         image_alt: Gatsby logo
         image_align: center
