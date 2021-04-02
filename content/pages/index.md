@@ -184,7 +184,7 @@ sections:
     actions:
       - label: '5% bonus on every refill on sunday, festival bonuses on our channel!'
         url: lorem-ipsum
-        style: link
+        style: primary
         has_icon: false
         icon: apple-podcasts
         icon_position: right
