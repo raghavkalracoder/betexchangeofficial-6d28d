@@ -143,7 +143,7 @@ sections:
         content_align: center
         actions: []
         actions_align: center
-        image: images/famous-tortoise.png
+        image: images/oie_KXBEYjEElEHE.png
         image_alt: Apple Podcasts icon
         image_position: top
         image_align: center
