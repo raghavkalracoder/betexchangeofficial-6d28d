@@ -242,7 +242,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-      - label: we are availible 24/7
+      - label: we are available 24/7
         url: lorem-ipsum
         style: link
         has_icon: false
