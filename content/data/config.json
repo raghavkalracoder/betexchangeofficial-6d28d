@@ -31,7 +31,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Register",
+                "label": "Register Now",
                 "url": "/subscribe",
                 "style": "primary"
             }
