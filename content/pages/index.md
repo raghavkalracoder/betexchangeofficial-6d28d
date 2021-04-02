@@ -220,6 +220,8 @@ sections:
           and it was the best online book in the whole market.”
       - image_alt: Gatsby logo
         image_align: center
+        content: |
+          "Thnq"
       - image: images/logo-6.svg
         image_alt: Twilio logo
         image_align: center
