@@ -210,6 +210,10 @@ sections:
       - image: images/logo-3.svg
         image_alt: Sticker Mule logo
         image_align: center
+        content: >
+          “I am playing from 12 years. A friend in need is a friend in deed. I
+          could find a friend in this book. Eat sleep and get a payment from Bet
+          exchange official . It has become my daily routine now.”
       - image: images/logo-4.svg
         image_alt: GitHub logo
         image_align: center
