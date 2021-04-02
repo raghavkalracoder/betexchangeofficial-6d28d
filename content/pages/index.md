@@ -136,7 +136,7 @@ sections:
     title: Start with us!!
     subtitle: Try Our Premium Exchanges!
   - type: grid_section
-    title: Subscribe
+    title: 'Daily Withdrawals, no holidays!'
     grid_items:
       - title: Apple Podcasts
         title_align: center
