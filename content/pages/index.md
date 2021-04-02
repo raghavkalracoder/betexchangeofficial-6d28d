@@ -150,13 +150,7 @@ sections:
         image_width: thirty-three
       - title_align: center
         content_align: center
-        actions:
-          - label: Subscribe
-            url: /thank-you
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: center
         image: images/1280px-Google_Pay_(GPay)_Logo.svg.png
         image_alt: Spotify icon
