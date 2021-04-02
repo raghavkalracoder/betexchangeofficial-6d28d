@@ -182,7 +182,7 @@ sections:
     background_image_opacity: 10
     subtitle: 5 lakh payments done in a single day
     actions:
-      - label: Customers ki Awaaz!
+      - label: '5% bonus on every refill on sunday, festival bonuses on our channel!'
         url: lorem-ipsum
         style: link
         has_icon: false
