@@ -201,6 +201,7 @@ sections:
     background_image_repeat: no-repeat
     background_image_size: cover
     background_image_opacity: 10
+    subtitle: 5 lakh payments done in a single day
   - type: grid_section
     title: Partners
     subtitle: 2021 Supporters
