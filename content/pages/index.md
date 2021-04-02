@@ -93,7 +93,7 @@ sections:
             icon: arrow-right
             icon_position: right
         actions_align: center
-        image: images/icon-1.svg
+        image: images/famous-tortoise.png
         image_alt: Apple Podcasts icon
         image_position: top
         image_align: center
