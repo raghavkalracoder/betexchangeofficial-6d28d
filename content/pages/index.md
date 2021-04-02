@@ -199,8 +199,10 @@ sections:
       - image: images/logo-1.svg
         image_alt: Stackbit logo
         image_align: center
-        content: |
-          5% bonus on every refill on sunday, festival bonuses on our channel!
+        content: >
+          “Thank you ji!! mujhe k\*\*\*\*book.com se blok kar diya tha kyunki
+          mai jeet gya, apke saath jeetke koi tension nai”5% bonus on every
+          refill on sunday, festival bonuses on our channel!
       - image: images/logo-2.svg
         image_alt: Netlify logo
         image_align: center
