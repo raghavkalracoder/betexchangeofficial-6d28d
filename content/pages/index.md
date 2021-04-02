@@ -6,7 +6,7 @@ sections:
     content: |2
        
     actions:
-      - label: Register with us
+      - label: Register with us!
         url: /thank-you
         style: primary
     image: images/WhatsApp Image 2021-04-01 at 9.03.46 AM.jpeg
