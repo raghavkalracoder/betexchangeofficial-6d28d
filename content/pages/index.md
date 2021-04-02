@@ -37,7 +37,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/1200px-UPI-Logo-vector.svg.png
-      - title: lorem-ipsum
+      - title: ' '
         subtitle: lorem-ipsum
         title_align: left
         content: >-
