@@ -202,6 +202,7 @@ sections:
           “Thank you ji!! mujhe k\*\*\*\*book.com se blok kar diya tha kyunki
           mai jeet gya, apke saath jeetke koi tension nai”5% bonus on every
           refill on sunday, festival bonuses on our channel!
+        content_align: center
       - image_alt: Netlify logo
         image_align: center
         content: >
