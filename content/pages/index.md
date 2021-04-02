@@ -22,6 +22,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 20
     has_border: true
+    background_image_position: right top
   - title: Trusted Online Book!
     actions:
       - label: Minimum ID 1000/-
