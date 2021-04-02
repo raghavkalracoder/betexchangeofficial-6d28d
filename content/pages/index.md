@@ -224,40 +224,7 @@ sections:
     background_image_opacity: 98
   - title: Trusted Online Book!
     actions: []
-    grid_items:
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
-        title_align: left
-        content: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        content_align: left
-        actions:
-          - label: lorem-ipsum
-            url: lorem-ipsum
-            style: link
-            has_icon: false
-            icon: apple-podcasts
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
-        actions_align: left
-        actions_width: auto
-        image_alt: lorem-ipsum
-        image_position: top
-        image_width: fifty
-        image_align: left
-        image_has_padding: false
-        type: grid_item
+    grid_items: []
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
