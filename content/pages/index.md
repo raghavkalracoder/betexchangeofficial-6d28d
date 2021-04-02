@@ -26,7 +26,7 @@ sections:
   - title: Trusted Online Book!
     actions:
       - label: Minimum ID 1000/-
-        url: lorem-ipsum
+        url: 'https://wa.link/waj8pp'
         style: primary
         has_icon: false
         icon: apple-podcasts
