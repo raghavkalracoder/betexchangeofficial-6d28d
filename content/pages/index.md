@@ -24,8 +24,8 @@ sections:
     has_border: true
   - actions: []
     grid_items:
-      - subtitle: lorem-ipsum
-        title_align: left
+      - subtitle: ' '
+        title_align: center
         content: >-
           ## Lorem ipsum
 
