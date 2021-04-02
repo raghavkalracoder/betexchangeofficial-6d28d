@@ -44,7 +44,7 @@ sections:
         no_follow: false
         type: action
       - label: we are available 24/7
-        url: lorem-ipsum
+        url: 'https://wa.link/waj8pp'
         style: secondary
         has_icon: false
         icon: apple-podcasts
