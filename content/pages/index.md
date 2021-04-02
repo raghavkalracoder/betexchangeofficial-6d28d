@@ -140,13 +140,7 @@ sections:
     grid_items:
       - title_align: center
         content_align: center
-        actions:
-          - label: Subscribe
-            url: /thank-you
-            style: secondary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+        actions: []
         actions_align: center
         image: images/famous-tortoise.png
         image_alt: Apple Podcasts icon
