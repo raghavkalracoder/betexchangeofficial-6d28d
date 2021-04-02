@@ -221,6 +221,7 @@ sections:
         content: >
           “I am playing with you since 2016, I never faced any issue with you
           and it was the best online book in the whole market.”
+        content_align: center
       - image_alt: Gatsby logo
         image_align: center
         content: |
