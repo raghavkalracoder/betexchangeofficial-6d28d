@@ -62,7 +62,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/PhonePe-Logo.wine.png
+        image: images/logo (1).png
     grid_cols: four
     grid_gap_vert: large
     grid_gap_horiz: small
