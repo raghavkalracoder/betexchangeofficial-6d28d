@@ -255,7 +255,7 @@ sections:
       - input_type: email
         name: Whatsapp Number
         label: Email
-        default_value: Your email address
+        default_value: whatsapp number
         is_required: true
       - input_type: checkbox
         name: consent
