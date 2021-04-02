@@ -78,6 +78,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
     title: Start with us!!
+    subtitle: Try Our Premium Exchanges!
   - type: blog_feed_section
     title: Latest Episodes
     blog_feed_cols: three
