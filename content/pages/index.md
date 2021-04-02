@@ -22,8 +22,7 @@ sections:
     background_image_size: cover
     background_image_opacity: 20
     has_border: true
-  - subtitle: lorem-ipsum
-    actions: []
+  - actions: []
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
@@ -39,6 +38,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: grid_section
+    title: Start with us!!
   - type: blog_feed_section
     title: Latest Episodes
     blog_feed_cols: three
