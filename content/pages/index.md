@@ -75,6 +75,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
+        image: images/paytm-226448.png
     grid_cols: four
     grid_gap_vert: large
     grid_gap_horiz: small
