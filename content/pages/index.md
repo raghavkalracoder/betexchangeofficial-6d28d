@@ -223,7 +223,6 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
   - title: Trusted Online Book!
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
