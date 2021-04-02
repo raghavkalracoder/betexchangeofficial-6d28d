@@ -164,7 +164,7 @@ sections:
         actions: []
         actions_align: center
         image_alt: Overcast icon
-        image_position: bottom
+        image_position: top
         image_align: center
         image_has_padding: true
         image: images/oie_LsHYdSjFgeev.png
