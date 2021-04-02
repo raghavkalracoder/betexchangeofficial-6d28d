@@ -115,7 +115,7 @@ sections:
         image_position: top
         image_align: center
         image_has_padding: true
-        image_width: sixty
+        image_width: twenty-five
       - title: Overcast
         title_align: center
         content_align: center
