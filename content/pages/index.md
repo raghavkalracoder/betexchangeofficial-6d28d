@@ -223,7 +223,16 @@ sections:
     background_image_size: auto
     background_image_opacity: 98
   - title: Trusted Online Book!
-    actions: []
+    actions:
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        style: link
+        has_icon: false
+        icon: apple-podcasts
+        icon_position: right
+        new_window: false
+        no_follow: false
+        type: action
     grid_items: []
     grid_cols: three
     grid_gap_vert: small
