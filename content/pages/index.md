@@ -253,7 +253,7 @@ sections:
         default_value: Your name
         is_required: true
       - input_type: email
-        name: Whatsapp Number
+        name: WhatsApp Number
         label: Email
         default_value: Your WhatsApp number
         is_required: true
