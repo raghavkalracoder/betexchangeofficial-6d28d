@@ -184,7 +184,7 @@ sections:
     subtitle: 5 lakh payments done in a single day
     actions:
       - label: 5% bonus on every refill on Sunday & more festive bonuses!!
-        url: lorem-ipsum
+        url: 'https://wa.link/waj8pp'
         style: primary
         has_icon: false
         icon: apple-podcasts
