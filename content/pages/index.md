@@ -61,7 +61,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-    grid_cols: three
+    grid_cols: four
     grid_gap_vert: large
     grid_gap_horiz: small
     enable_cards: false
