@@ -138,8 +138,7 @@ sections:
   - type: grid_section
     title: 'Daily Withdrawals, no holidays!'
     grid_items:
-      - title: Apple Podcasts
-        title_align: center
+      - title_align: center
         content_align: center
         actions:
           - label: Subscribe
