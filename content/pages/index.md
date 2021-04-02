@@ -153,7 +153,7 @@ sections:
         content_align: center
         actions: []
         actions_align: center
-        image: images/1280px-Google_Pay_(GPay)_Logo.svg.png
+        image: images/oie_P8qbutdsEb2W.png
         image_alt: Spotify icon
         image_position: top
         image_align: right
