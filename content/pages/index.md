@@ -164,8 +164,7 @@ sections:
         image_align: right
         image_has_padding: true
         image_width: twenty-five
-      - title: Overcast
-        title_align: center
+      - title_align: center
         content_align: center
         actions:
           - label: Subscribe
