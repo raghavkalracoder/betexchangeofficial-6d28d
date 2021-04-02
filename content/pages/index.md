@@ -39,7 +39,7 @@ sections:
         image: images/1200px-UPI-Logo-vector.svg.png
       - title: ' '
         subtitle: ' '
-        title_align: left
+        title_align: center
         content: >-
           ## Lorem ipsum
 
