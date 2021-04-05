@@ -3,8 +3,9 @@ title: Home
 sections:
   - type: hero_section
     title: 'Start investing in sports, follow us to know more..'
-    content: |2
-       
+    content: |+
+      Master & Super Master Available
+
     actions:
       - label: Register NOW!!
         url: /thank-you
