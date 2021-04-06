@@ -110,6 +110,10 @@ sections:
         image_has_padding: true
         type: grid_item
         image: images/logo1.png
+        content: |
+          ID-> Demobet11
+
+          Pass-> Dubai123
       - title_align: left
         content_align: left
         actions: []
