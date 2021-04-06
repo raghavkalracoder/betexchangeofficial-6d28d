@@ -319,7 +319,7 @@ sections:
         label: Name
         default_value: Your name
         is_required: true
-      - input_type: number
+      - input_type: tel
         name: WhatsApp Number
         label: Email
         default_value: Your WhatsApp number
