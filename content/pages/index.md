@@ -72,7 +72,7 @@ sections:
     grid_items:
       - subtitle: ' '
         title_align: center
-        content_align: center
+        content_align: left
         actions:
           - label: "Id\tDemobet "
             url: lorem-ipsum
