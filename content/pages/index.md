@@ -251,7 +251,8 @@ sections:
         type: action
         label: Pay Now!
       - label: 5% bonus on every refill on Sunday & more festive bonuses!!
-        url: lorem-ipsum
+        url: >-
+          https://api.whatsapp.com/send?phone=919987129247&text=Hey!%20I%27d%20link%20to%20know%20about%20Bet%20Exchange%20Official
         style: link
         has_icon: false
         icon: apple-podcasts
