@@ -103,7 +103,7 @@ sections:
         actions:
           - label: Go to Site
             url: lorem-ipsum
-            style: link
+            style: secondary
             has_icon: false
             icon: apple-podcasts
             icon_position: right
