@@ -106,7 +106,7 @@ sections:
             style: secondary
             has_icon: false
             icon: apple-podcasts
-            icon_position: right
+            icon_position: center
             new_window: false
             no_follow: false
             type: action
