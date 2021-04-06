@@ -321,7 +321,7 @@ sections:
         is_required: true
       - input_type: tel
         name: WhatsApp Number
-        label: Email
+        label: Whatsapp Number
         default_value: Your WhatsApp number
         is_required: true
     submit_label: Submit
