@@ -74,7 +74,7 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: lorem-ipsum
+          - label: "Id\tDemobet Password\t1234"
             url: lorem-ipsum
             style: link
             has_icon: false
