@@ -79,7 +79,7 @@ sections:
         content_align: left
         actions:
           - label: Go to Site
-            url: Prideexch9.com
+            url: 'https://prideexch9.com/login'
             style: secondary
             has_icon: false
             icon: apple-podcasts
