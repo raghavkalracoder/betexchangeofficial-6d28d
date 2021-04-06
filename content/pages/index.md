@@ -135,6 +135,10 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/logo (1).png
+        content: |
+          ID-> demobet
+
+          Pass-> 1234
       - title_align: left
         content_align: left
         actions: []
