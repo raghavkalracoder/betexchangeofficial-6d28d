@@ -28,7 +28,8 @@ sections:
   - title: Trusted Online Book!
     actions:
       - label: Minimum ID 1000/-
-        url: 'https://wa.link/waj8pp'
+        url: >-
+          https://api.whatsapp.com/send?phone=919987129247,9819040477&text=Hey!%20I%27d%20link%20to%20know%20about%20Bet%20Exchange%20Official
         style: primary
         has_icon: false
         icon: apple-podcasts
