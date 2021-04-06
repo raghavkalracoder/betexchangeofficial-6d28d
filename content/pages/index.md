@@ -152,7 +152,7 @@ sections:
         content_align: left
         actions:
           - label: Go to Site
-            url: lorem-ipsum
+            url: Dollarexch.bet
             style: secondary
             has_icon: false
             icon: apple-podcasts
