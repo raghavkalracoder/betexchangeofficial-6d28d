@@ -101,7 +101,7 @@ sections:
         title_align: center
         content_align: left
         actions:
-          - label: lorem-ipsum
+          - label: Go to Site
             url: lorem-ipsum
             style: link
             has_icon: false
