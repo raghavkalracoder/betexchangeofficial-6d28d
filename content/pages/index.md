@@ -244,6 +244,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
+        label: Pay Now!
       - label: 5% bonus on every refill on Sunday & more festive bonuses!!
         url: lorem-ipsum
         style: link
