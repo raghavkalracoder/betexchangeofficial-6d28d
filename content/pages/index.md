@@ -75,7 +75,7 @@ sections:
         content_align: left
         actions:
           - label: Go to Site
-            url: lorem-ipsum
+            url: Prideexch9.com
             style: secondary
             has_icon: false
             icon: apple-podcasts
