@@ -124,9 +124,9 @@ sections:
         type: grid_item
         image: images/logo1.png
         content: |
-          *   ID-> Demobet
+          ###### ID-> Demobet
 
-          *   Pass-> 1234
+          ###### Pass-> 1234
       - title_align: left
         content_align: left
         actions:
