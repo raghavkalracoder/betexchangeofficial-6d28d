@@ -93,9 +93,9 @@ sections:
         type: grid_item
         image: images/logo.png
         content: |
-          *   ID -> Demobet
+          *   ID -> Demobet11
 
-          *   Pass-> 1234
+          *   Pass-> Dubai123
       - title: ' '
         subtitle: ' '
         title_align: center
