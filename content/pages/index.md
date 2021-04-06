@@ -8,7 +8,8 @@ sections:
 
     actions:
       - label: Register NOW!!
-        url: /thank-you
+        url: >-
+          https://api.whatsapp.com/send?phone=919987129247,9819040477&text=Hey!%20I%27d%20link%20to%20know%20about%20Bet%20Exchange%20Official
         style: primary
     image: images/WhatsApp Image 2021-04-01 at 9.03.46 AM.jpeg
     image_alt: Hero section placeholder image
