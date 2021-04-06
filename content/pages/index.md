@@ -237,7 +237,7 @@ sections:
     subtitle: 5 lakh payments done in a single day
     actions:
       - url: >-
-          https://api.whatsapp.com/send?phone=919987129247,9819040477&text=Hey!%20I%27d%20link%20to%20know%20about%20Bet%20Exchange%20Official
+          https://api.whatsapp.com/send?phone=919987129247,9819040477&text=Hey!%20I%27d%20link%20to%20know%20about%20Bet%20Exchange%20
         style: primary
         has_icon: false
         icon: apple-podcasts
