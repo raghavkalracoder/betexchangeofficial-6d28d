@@ -127,7 +127,7 @@ sections:
         content_align: left
         actions:
           - label: Go to Site
-            url: lorem-ipsum
+            url: 100bet.in
             style: secondary
             has_icon: false
             icon: apple-podcasts
