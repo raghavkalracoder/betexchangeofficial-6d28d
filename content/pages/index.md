@@ -74,7 +74,7 @@ sections:
         title_align: center
         content_align: center
         actions: []
-        actions_align: left
+        actions_align: center
         actions_width: auto
         image_alt: lorem-ipsum
         image_position: top
