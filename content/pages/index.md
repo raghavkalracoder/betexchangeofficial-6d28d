@@ -237,8 +237,7 @@ sections:
     subtitle: 5 lakh payments done in a single day
     actions:
       - url: >-
-          https://api.whatsapp.com/send?phone=919987129247,9819040477&text=Hey!%20Please
-          share%20UPI%20link
+          https://api.whatsapp.com/send?phone=919987129247,9819040477&text=Hey!%20Please%20share%20UPI%20link
         style: primary
         has_icon: false
         icon: apple-podcasts
