@@ -160,6 +160,10 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/Screenshot 2021-04-02 at 6.42.19 AM.png
+        content: |
+          *   ID -> 100betdemo7
+
+          *   Pass-> Dubai123
     grid_cols: four
     grid_gap_vert: large
     grid_gap_horiz: small
