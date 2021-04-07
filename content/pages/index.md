@@ -177,7 +177,7 @@ sections:
           ###### ID -> demobet
 
           ###### Pass-> 1234
-    grid_cols: two
+    grid_cols: four
     grid_gap_vert: large
     grid_gap_horiz: small
     enable_cards: false
