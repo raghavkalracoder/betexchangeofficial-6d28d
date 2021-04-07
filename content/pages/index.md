@@ -122,7 +122,7 @@ sections:
         image_align: center
         image_has_padding: true
         type: grid_item
-        image: images/logo1.png
+        image: images/logo (3).png
         content: |
           ###### ID-> Demobet
 
