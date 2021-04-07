@@ -156,7 +156,7 @@ sections:
         content_align: left
         actions:
           - label: Go to Site
-            url: Dollarexch.bet
+            url: 'http://www.dollarexch.bet/login'
             style: secondary
             has_icon: false
             icon: apple-podcasts
