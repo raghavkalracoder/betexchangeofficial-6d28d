@@ -106,7 +106,7 @@ sections:
         content_align: left
         actions:
           - label: Go to Site
-            url: Parkerexch9.com
+            url: 'https://www.radheexch.com/'
             style: secondary
             has_icon: false
             icon: apple-podcasts
