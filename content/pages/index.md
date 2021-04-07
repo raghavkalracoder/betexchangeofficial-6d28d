@@ -131,7 +131,7 @@ sections:
         content_align: left
         actions:
           - label: Go to Site
-            url: 100bet.in
+            url: 'https://www.100bet.in/login'
             style: secondary
             has_icon: false
             icon: apple-podcasts
